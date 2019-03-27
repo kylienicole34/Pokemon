@@ -1,0 +1,136 @@
+.header {
+	padding-top: 55px;
+	padding-bottom: 55px;
+	background-image: url(header-bg.jpg);
+	background-size: cover;
+	text-align: center;
+	background-position: center center;
+	clear: left;
+	color: #FFFFFF;
+}
+.nav {
+	background-color: #000000;
+	color: #FFFFFF;
+	padding-left: 30px;
+	padding-right: 30px;
+	text-align: center;
+	padding-top: 28px;
+	padding-bottom: 28px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	list-style-type: none;
+}
+.content {
+	padding-top: 75px;
+	padding-bottom: 75px;
+	clear: left;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 40px;
+	display: block;
+	float: none;
+}
+.col-1 {
+	width: 33.3%;
+	float: left;
+	padding-top: 200px;
+	background-image: url(video-games.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 24px;
+}
+.col-2 {
+	width: 33.3%;
+	float: left;
+	padding-top: 200px;
+	background-image: url(tcg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.col-3 {
+	width: 33.3%;
+	float: left;
+	padding-top: 200px;
+	background-image: url(pokken.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.footer {
+	padding-top: 52px;
+	padding-bottom: 52px;
+	background-color: #000000;
+	background-position: center center;
+	clear: left;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.ul {
+	display: inline;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.li {
+	text-align: center;
+	list-style-type: none;
+	display: inline;
+	padding-left: 30px;
+	padding-right: 30px;
+	color: #FFFFFF;
+}
+.h1 {
+	clear: left;
+	font-size: 40px;
+	width: 350px;
+	float: left;
+	padding-left: 35px;
+}
+.content_p {
+	padding-left: 35px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 20px;
+	text-align: left;
+	float: left;
+	width: 580px;
+	clear: left;
+}
+.content_img {
+	float: right;
+	display: inline;
+	clear: none;
+}
+.content_a {
+	display: block;
+	width: 250px;
+	text-align: center;
+	margin-left: 35px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #fe0000;
+	text-shadow: 0px 0px #FFFFFF;
+	color: #FFFFFF;
+	clear: left;
+}
+.h2 {
+	font-size: 24px;
+	padding-left: 18px;
+	padding-right: 18px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.col-1_p {
+	padding-left: 18px;
+	padding-right: 18px;
+	padding-bottom: 18px;
+	width: 415px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 24px;
+}
+.col-2_p {
+	width: 420px;
+	padding-left: 18px;
+	padding-right: 18px;
+	padding-bottom: 18px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 24px;
+}
